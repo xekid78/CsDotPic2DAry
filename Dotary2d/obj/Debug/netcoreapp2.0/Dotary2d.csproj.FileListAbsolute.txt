@@ -1,0 +1,11 @@
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\Dotary2d\Dotary2d\bin\Debug\netcoreapp2.0\Dotary2d.deps.json
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\Dotary2d\Dotary2d\bin\Debug\netcoreapp2.0\Dotary2d.runtimeconfig.json
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\Dotary2d\Dotary2d\bin\Debug\netcoreapp2.0\Dotary2d.runtimeconfig.dev.json
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\Dotary2d\Dotary2d\bin\Debug\netcoreapp2.0\Dotary2d.dll
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\Dotary2d\Dotary2d\bin\Debug\netcoreapp2.0\Dotary2d.pdb
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\Dotary2d\Dotary2d\obj\Debug\netcoreapp2.0\Dotary2d.csprojResolveAssemblyReference.cache
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\Dotary2d\Dotary2d\obj\Debug\netcoreapp2.0\Dotary2d.csproj.CoreCompileInputs.cache
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\Dotary2d\Dotary2d\obj\Debug\netcoreapp2.0\Dotary2d.AssemblyInfoInputs.cache
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\Dotary2d\Dotary2d\obj\Debug\netcoreapp2.0\Dotary2d.AssemblyInfo.cs
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\Dotary2d\Dotary2d\obj\Debug\netcoreapp2.0\Dotary2d.dll
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\Dotary2d\Dotary2d\obj\Debug\netcoreapp2.0\Dotary2d.pdb
